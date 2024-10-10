@@ -14,30 +14,45 @@ A Python-based network simulation tool that allows you to model and analyze vari
 
 ## Features
 
-- Supports multiple routing protocols: AODV, DSR
-- Customizable network topologies: Grid, Random, Cluster
-- Adjustable simulation parameters:
-  - Number of nodes
-  - Number of simulation steps
-  - Number of random links between nodes
-- Command-line interface for easy configuration and execution
+- **Multiple Routing Protocols**: Supports AODV and DSR.
+- **Customizable Network Topologies**: Choose from Grid, Random, or Cluster topologies.
+- **Adjustable Simulation Parameters**:
+  - **Number of Nodes**: Specify the total number of nodes in the network.
+  - **Number of Simulation Steps**: Define how many steps the simulation will run.
+  - **Number of Random Links Between Nodes**: Determine the number of random connections between nodes.
+- **Command-Line Interface**: Easy configuration and execution through the CLI.
 
 ## Prerequisites
 
+Before installing the Network Simulation Project, ensure you have the following prerequisites:
+
 - **Python 3.6+**: Ensure you have Python installed. You can download it from [python.org](https://www.python.org/downloads/).
-- **Required Python Packages**: Install necessary packages using `pip`.
+- **Git**: Required for cloning the repository. Download from [git-scm.com](https://git-scm.com/downloads).
+- **pip**: Python package installer, typically included with Python. Verify by running `pip --version` in your terminal.
 
-## bash
-pip install -r requirements.txt
+## Installation
 
--- Step1: git clone https://github.com/MrSubha420/Wireless-Sensor-Network/tree/main/wsn-sim-master
--- Step2: python -m compileall node.py
--- step3: python -m compileall network.py
--- Step4: setup cli.py according to you need
-Routing Protocol: Choose between AODV or DSR.
-Number of Simulation Steps: Define how many steps the simulation will run.
-Number of Nodes: Specify the total number of nodes in the network.
-Number of Random Links Between Nodes: Determine how many random connections exist between nodes.
-Network Topology: Select from grid, random, or cluster.
+Follow these steps to set up the Network Simulation Project on your local machine:
 
--- Step5: python -m compileall cli.py
+### 1. Clone the Repository
+
+- First, clone the repository to your local machine using Git:
+
+- git clone https://github.com/MrSubha420/Wireless-Sensor-Network.git
+
+### 2. Navigate to the project directory
+- cd Wireless-Sensor-Network/wsn-sim-master
+
+### 3. Install Required Python Packages
+- pip install -r requirements.txt
+
+### 4. Compile Python Modules
+- python -m compileall node.py
+- python -m compileall network.py
+### 5.  Configure cli.py
+- protocol: Routing protocol to use (AODV or DSR). Required.
+- steps: Number of simulation steps. Default: 100
+- nodes: Number of nodes in the network. Default: 50
+- random-links: Number of random links between nodes. Default: 10
+- topology: Network topology (Grid, Random, or Cluster). Default: Random
+- Example : python cli.py --protocol AODV --steps 100 --nodes 50 --random-links 10 --topology Grid
