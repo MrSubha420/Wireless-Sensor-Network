@@ -31,7 +31,7 @@ Wireless Sensor Networks (WSNs) play a vital role in modern IoT applications suc
 - Simulates a WSN with random connections.  
 - Implements 3-step communication: **Request**, **Acknowledgment**, and **Data Transfer**.  
 
-[View Code](https://github.com/MrSubha420/Wireless-Sensor-Network/blob/main/Experiment1.py)  
+[View Code](https://github.com/MrSubha420/Wireless-Sensor-Network/blob/main/program1.py)  
 
 ---
 
