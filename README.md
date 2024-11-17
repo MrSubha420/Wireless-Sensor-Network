@@ -57,7 +57,7 @@ Wireless Sensor Networks (WSNs) play a vital role in modern IoT applications suc
   - **DSR (Dynamic Source Routing)**.  
 - Simulates packet routing in various network topologies: grid, random, and clustered.  
 
-[View Code](https://github.com/MrSubha420/Wireless-Sensor-Network/blob/main/Experiment4)  
+[View Code](https://github.com/MrSubha420/Wireless-Sensor-Network/tree/main/Program-4)
 
 ---
 
@@ -65,7 +65,7 @@ Wireless Sensor Networks (WSNs) play a vital role in modern IoT applications suc
 - Implements **Low-Energy Adaptive Clustering Hierarchy (LEACH)** for energy-efficient communication.  
 - Groups nodes into clusters with designated cluster heads for data aggregation and transmission.  
 
-[View Code](https://github.com/MrSubha420/Wireless-Sensor-Network/blob/main/program 5.py)  
+[View Code](https://github.com/MrSubha420/Wireless-Sensor-Network/blob/main/program5.py)  
 
 ---
 
