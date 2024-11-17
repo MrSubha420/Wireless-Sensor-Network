@@ -92,6 +92,12 @@ pip install networkx matplotlib numpy plotly dash
 ```bash
  python program1.py
 ```
+## Output and Visualizations
+- program1 output :
+- program2 output :
+- program3 output :
+- program4 output :
+- program5 output :
 ## License  
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
