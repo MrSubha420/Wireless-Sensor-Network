@@ -81,12 +81,18 @@ pip install networkx matplotlib numpy plotly dash
 ```
 ## How to Run  
 
-### Run Experiments  
+### Run Experiments 
+- (Let program1 )
 1. Clone the repository:  
    ```bash
    git clone https://github.com/MrSubha420/Wireless-Sensor-Network.git
    cd Wireless-Sensor-Network
    ```
 2. Navigate to the desired experiment file and run:
-```bash python program1.py
+```bash
+ python program1.py
+```
+## License  
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
