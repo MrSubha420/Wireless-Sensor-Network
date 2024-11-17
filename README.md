@@ -39,7 +39,7 @@ Wireless Sensor Networks (WSNs) play a vital role in modern IoT applications suc
 - Implements **Carrier Sense Multiple Access with Collision Detection (CSMA/CD)**.  
 - Simulates medium access control in WSNs with collision detection and resolution mechanisms.  
 
-[View Code](https://github.com/MrSubha420/Wireless-Sensor-Network/blob/main/Experiment2.py)  
+[View Code](https://github.com/MrSubha420/Wireless-Sensor-Network/blob/main/program2.py)  
 
 ---
 
@@ -47,7 +47,7 @@ Wireless Sensor Networks (WSNs) play a vital role in modern IoT applications suc
 - **TDMA (Time Division Multiple Access)**: Divides communication into time slots for each node.  
 - **FDMA (Frequency Division Multiple Access)**: Allocates unique frequency bands to each node for data transmission.  
 
-[View Code](https://github.com/MrSubha420/Wireless-Sensor-Network/blob/main/Experiment3.py)  
+[View Code](https://github.com/MrSubha420/Wireless-Sensor-Network/blob/main/program3.py)  
 
 ---
 
@@ -65,7 +65,7 @@ Wireless Sensor Networks (WSNs) play a vital role in modern IoT applications suc
 - Implements **Low-Energy Adaptive Clustering Hierarchy (LEACH)** for energy-efficient communication.  
 - Groups nodes into clusters with designated cluster heads for data aggregation and transmission.  
 
-[View Code](https://github.com/MrSubha420/Wireless-Sensor-Network/blob/main/Experiment5.py)  
+[View Code](https://github.com/MrSubha420/Wireless-Sensor-Network/blob/main/program 5.py)  
 
 ---
 
