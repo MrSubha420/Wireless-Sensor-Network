@@ -78,3 +78,15 @@ Wireless Sensor Networks (WSNs) play a vital role in modern IoT applications suc
 ### Install Dependencies  
 ```bash
 pip install networkx matplotlib numpy plotly dash
+```
+## How to Run  
+
+### Run Experiments  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/MrSubha420/Wireless-Sensor-Network.git
+   cd Wireless-Sensor-Network
+   ```
+2. Navigate to the desired experiment file and run:
+```bash python program1.py
+
