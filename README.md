@@ -94,10 +94,15 @@ pip install networkx matplotlib numpy plotly dash
 ```
 ## Output and Visualizations
 - program1 output :
+  <img align="center" src="img/mybanner.JPG" alt="MrSubha420"/>
 - program2 output :
+  <img align="center" src="img/mybanner.JPG" alt="MrSubha420"/>
 - program3 output :
+  <img align="center" src="img/mybanner.JPG" alt="MrSubha420"/>
 - program4 output :
+  <img align="center" src="img/mybanner.JPG" alt="MrSubha420"/>
 - program5 output :
+  <img align="center" src="img/mybanner.JPG" alt="MrSubha420"/>
 ## License  
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
